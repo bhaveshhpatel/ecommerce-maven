@@ -1,0 +1,10 @@
+/Users/pooja1st2003/Documents/GitHub/ecommerce-maven/inventory/src/main/java/com/ecommerce/inventory/InventoryApplication.java
+/Users/pooja1st2003/Documents/GitHub/ecommerce-maven/inventory/src/main/java/com/ecommerce/inventory/serviceImpls/CategoryServiceImpl.java
+/Users/pooja1st2003/Documents/GitHub/ecommerce-maven/inventory/src/main/java/com/ecommerce/inventory/exceptions/ResourceNotFoundException.java
+/Users/pooja1st2003/Documents/GitHub/ecommerce-maven/inventory/src/main/java/com/ecommerce/inventory/entities/Item.java
+/Users/pooja1st2003/Documents/GitHub/ecommerce-maven/inventory/src/main/java/com/ecommerce/inventory/controllers/CategoryController.java
+/Users/pooja1st2003/Documents/GitHub/ecommerce-maven/inventory/src/main/java/com/ecommerce/inventory/persistent/CategoryRepository.java
+/Users/pooja1st2003/Documents/GitHub/ecommerce-maven/inventory/src/main/java/com/ecommerce/inventory/entities/Category.java
+/Users/pooja1st2003/Documents/GitHub/ecommerce-maven/inventory/src/main/java/com/ecommerce/inventory/services/CategoryService.java
+/Users/pooja1st2003/Documents/GitHub/ecommerce-maven/inventory/src/main/java/com/ecommerce/inventory/entities/Product.java
+/Users/pooja1st2003/Documents/GitHub/ecommerce-maven/inventory/src/main/java/com/ecommerce/inventory/entities/CustomerCategory.java

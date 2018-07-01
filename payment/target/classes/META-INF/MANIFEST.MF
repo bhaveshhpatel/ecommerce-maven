@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: pooja1st2003
+Build-Jdk: 10.0.1
+Implementation-Title: payment
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.ecommerce
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ecommerce-maven/payment
+Created-By: Maven Integration for Eclipse
+
